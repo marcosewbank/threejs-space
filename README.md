@@ -1,1 +1,1 @@
-Check out at https://marcosewbank.github.io/threejs-space/
+https://marcosewbank.github.io/threejs-space/
