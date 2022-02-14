@@ -22,7 +22,7 @@ camera.position.setZ(30);
 
 renderer.render(scene, camera);
 
-const texture = new THREE.TextureLoader().load("moon.png");
+const texture = new THREE.TextureLoader().load("/moon.png");
 
 const geometry = new THREE.SphereGeometry(5, 15, 16);
 const material = new THREE.MeshBasicMaterial({ map: texture });
